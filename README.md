@@ -4,4 +4,4 @@
 콘텐츠의 구조를 정의하는 마크업 언어이다.
 
 ## HTML의 구성 요소 ##
-1. <!DOCTYPE html> <br>
+1. !DOCTYPE html <br>
